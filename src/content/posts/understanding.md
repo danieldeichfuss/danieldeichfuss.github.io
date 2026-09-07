@@ -1,15 +1,19 @@
 ---
 title: understanding is the key
-description: even with AI
-published: 2026-09-03
+description: the question is how much
+published: 2026-09-07
 category: AI
 tags:
   - ai
   - engineering
 ---
 
-> Understanding is the key thing that we need to make changes safely. - Michael C. Feathers
+How can I reason with an agent about things I don't understand? What parts do I need to understand, and at what layer?
 
-Understanding is the bottleneck, 24 years ago and now with AI. Nothing has changed, except the speed of change.
+I've been thinking about this a lot. Michael C. Feathers wrote this 22 years ago and it still applies:
 
-Inspired by: [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+> Understanding is the key thing that we need to make changes safely.
+
+The question is how much, and which parts. I can drive a car safely without knowing how the engine works. But I should probably keep my eyes open and both hands on the wheel. Or should I say, how can I steer my agent/car with my eyes closed?
+
+Now someone please tell me which part of my code is the street?
