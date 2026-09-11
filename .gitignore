@@ -23,16 +23,6 @@ pnpm-debug.log*
 # setting folders
 .idea/
 .vscode/
-.codex/
-.claude/
 
 # Pagfind earch index
 public/pagefind/*
-
-# Agents 
-.codex/
-.claude/
-.agents/
-AGENTS.md
-TODO.md
-skills-lock.json
