@@ -7,7 +7,7 @@ tags:
   - ai
   - engineering
   - tooling
-draft: true
+draft: false
 ---
 
 AI makes it easy to say yes to complexity.
